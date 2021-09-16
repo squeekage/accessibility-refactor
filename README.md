@@ -29,7 +29,6 @@ This is a web page. There isn't much to it. I don't think this is the forum for 
 
 * **Jennifer Dorsett** 
 
-- [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/squeekage)
 - [Link to LinkedIn](https://www.linkedin.com/in/jennifer-dorsett-36ab8058/)
 
